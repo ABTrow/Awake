@@ -1,0 +1,19 @@
+#story-book {
+  height: 80vh;
+  padding: 5%;
+  text-align: right;
+  font-size: 1.5rem;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #E1DAB8;
+  color: #0B0D07;
+  overflow-y: scroll;
+}
+
+.story-book-line {
+  margin-bottom: 1rem;
+}
+
+.option-button {
+  margin-left: 2rem;
+  background-color: transparent;
+}
